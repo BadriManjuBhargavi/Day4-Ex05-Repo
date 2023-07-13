@@ -1,0 +1,8 @@
+C:\DAY 4\Excercise-05\Excercise-05\bin\Debug\Excercise-05.exe.config
+C:\DAY 4\Excercise-05\Excercise-05\bin\Debug\Excercise-05.exe
+C:\DAY 4\Excercise-05\Excercise-05\bin\Debug\Excercise-05.pdb
+C:\DAY 4\Excercise-05\Excercise-05\obj\Debug\Excercise-05.csproj.AssemblyReference.cache
+C:\DAY 4\Excercise-05\Excercise-05\obj\Debug\Excercise-05.csproj.SuggestedBindingRedirects.cache
+C:\DAY 4\Excercise-05\Excercise-05\obj\Debug\Excercise-05.csproj.CoreCompileInputs.cache
+C:\DAY 4\Excercise-05\Excercise-05\obj\Debug\Excercise-05.exe
+C:\DAY 4\Excercise-05\Excercise-05\obj\Debug\Excercise-05.pdb
